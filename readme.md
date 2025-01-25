@@ -1,4 +1,3 @@
-Here is the updated README file without the License and Contact sections:
 
 # Cognifyz Internship
 
@@ -46,4 +45,3 @@ We welcome contributions! To contribute:
     ```
 5. Create a pull request explaining your changes.
 
-Feel free to modify this draft as needed to better suit your project's requirements.
